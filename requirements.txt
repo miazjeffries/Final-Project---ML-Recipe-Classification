@@ -1,0 +1,6 @@
+pandas
+kagglehub
+numpy
+scikit-learn
+transformers
+datasets
