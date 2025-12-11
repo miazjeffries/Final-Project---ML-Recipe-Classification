@@ -7,6 +7,17 @@ PURPOSE OF PROJECT:
 VERSION or DATE:
     December 10, 2025
 
+DATA
+The dataset files too large to upload to directly to GitHub. 
+To obtain:
+    1. Original dataset ('recipes.csv')
+        - Download from Kaggle here: https://www.kaggle.com/code/karltonkxb/food-recipe-association-rules
+        - place file in the 'data/' folder
+
+    2. Processed dataset ('processed_data.csv')
+        - Run the preprocess.py script to generate it from 'recipes.csv'
+        - 'processed_data.csv' will be saved in the 'data/' folder
+
 USER INSTRUCTIONS:
     1. Clone the repository to your local machine
     2. Install required libraries using 'pip install -r requirements.txt'
