@@ -27,8 +27,8 @@ USER INSTRUCTIONS:
     6. All metrics, predictions, and reports are saved to the 'results/' directory
 
 AUTHORS:
-    Mia Jeffries
-    Talisa Pham-Quang
+    Mia Jeffries, 
+    Talisa Pham-Quang, 
     Trisha Bhima
 
 NOTES:
